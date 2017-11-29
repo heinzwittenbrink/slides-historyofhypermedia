@@ -96,7 +96,7 @@ Bild: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vannevar_Bush_
 
 ![Screenshot: Xanadu-Demo für Windows](http://www.stefan-muenz.de/wp-content/uploads/2016/02/hypertext-2-2-1.jpg)
 
-<small class="rights">Bild: [Stefan Münz](http://www.stefan-muenz.de/hypertext/nelson-xanadu/ "Ted Nelson – Xanadu – Stefan Münz"). Rechte: [Creative-Commons strong](http://creativecommons.org/licenses/by-sa/3.0/de/). Wenn Sie gemäß der Lizenz nutzen, geben Sie bitte stets die genaue URL-Adresse des betroffenen Inhalts an.</small>
+<small class="rights">Picture: [Stefan Münz](http://www.stefan-muenz.de/hypertext/nelson-xanadu/ "Ted Nelson – Xanadu – Stefan Münz"). Rights: [Creative-Commons strong](http://creativecommons.org/licenses/by-sa/3.0/de/). If you use this content according to the licence please always include the URL.</small>
 
 
 ---
