@@ -1,7 +1,17 @@
 ---
 title: A very short history of hypermedia 
 author: Heinz Wittenbrink
+rights:  Creative Commons Non-Commercial Share Alike 3.0
 date: 2017-11-27
+---
+
+
+This presentation is published as an open educational resource. Collaborative improvement is welcome.
+
+GitHub repository: https://github.com/heinzwittenbrink/slides-historyofhypermedia
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ---
 
 ![Roy T. Fielding](pics/roytfielding.jpg){width=70%}
@@ -9,7 +19,7 @@ date: 2017-11-27
 <small class="rights">[Picture: Darin Wortlehock 2007, Flickr](https://www.flickr.com/photos/dwortlehock/1414515559 "Dr Roy T. Fielding | dwortlehock | Flickr") </small>
 
 <small class="rights">
-<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" class="photo-license-url" rel="license cc:license" target="_newtab">Alcuni diritti sono riservati</a></small>
+<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" class="photo-license-url" rel="license cc:license" target="_newtab">Some Rights Reserved</a></small>
 
 
 ---
@@ -84,7 +94,7 @@ Bild: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vannevar_Bush_
 
 [DigiBarn Documents: Computer Lib/Dream Machines, Ted Nelson](http://www.digibarn.com/collections/books/computer-lib/)
 
-![Ausschnitt aus dem Xanadu-Demo für Windows](http://www.stefan-muenz.de/wp-content/uploads/2016/02/hypertext-2-2-1.jpg)
+![Screenshot: Xanadu-Demo für Windows](http://www.stefan-muenz.de/wp-content/uploads/2016/02/hypertext-2-2-1.jpg)
 
 <small class="rights">Bild: [Stefan Münz](http://www.stefan-muenz.de/hypertext/nelson-xanadu/ "Ted Nelson – Xanadu – Stefan Münz"). Rechte: [Creative-Commons strong](http://creativecommons.org/licenses/by-sa/3.0/de/). Wenn Sie gemäß der Lizenz nutzen, geben Sie bitte stets die genaue URL-Adresse des betroffenen Inhalts an.</small>
 
