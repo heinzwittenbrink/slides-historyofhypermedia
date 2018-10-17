@@ -1,8 +1,8 @@
 ---
-title: A very short history of hypermedia 
+title: A very short history of hypermedia
 author: Heinz Wittenbrink
-rights:  Creative Commons Non-Commercial Share Alike 3.0
-date: 2017-11-27
+rights:  Creative Commons Non-Commercial Share Alike 4.0
+date: 2018-10-16
 ---
 
 
@@ -14,12 +14,30 @@ GitHub repository: https://github.com/heinzwittenbrink/slides-historyofhypermedi
 
 ---
 
+Goal today: Understanding what we have to know about the technical aspects of content.
+
+How does content technically support the design of connected services with many touchpoints?
+
+---
+
+Most important topics:
+
+- Separation of content and presentation
+- Links and addresses
+- Metadata
+
+---
+
+[![](pics/gould.png)](https://www.ted.com/talks/margaret_gould_stewart_how_the_hyperlink_changed_everything "Margaret Gould Stewart: How the hyperlink changed everything | TED Talk")
+
+---
+
 ![Roy T. Fielding](pics/roytfielding.jpg){width=70%}
 
 <small class="rights">[Picture: Darin Wortlehock 2007, Flickr](https://www.flickr.com/photos/dwortlehock/1414515559 "Dr Roy T. Fielding | dwortlehock | Flickr") </small>
 
 <small class="rights">
-<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" class="photo-license-url" rel="license cc:license" target="_newtab">Some Rights Reserved</a></small>
+<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" class="photo-license-url" rel="license cc:license">Some Rights Reserved</a></small>
 
 
 ---
@@ -106,7 +124,10 @@ Bild: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vannevar_Bush_
 ---
 
 
-## Doug Engelbart 
+
+
+
+## Doug Engelbart
 
 ![Doug Engelbart 2008](https://upload.wikimedia.org/wikipedia/commons/7/78/Douglas_Engelbart_in_2008.jpg){ width=25%}
 
@@ -141,14 +162,14 @@ see: [A Lifetime Pursuit - Doug Engelbart Institute](http://www.dougengelbart.
 - Search
 
 
---- 
+---
 
 
 ## HyTime
 
 
 - Early standard for hypermedia systems
-- Time based hypermedia 
+- Time based hypermedia
 
 [Cover Pages: HyTime. ISO 10744:1997 -- Hypermedia/Time-based Structuring Language (HyTime), 2nd Edition](http://xml.coverpages.org/hytime.html)
 
@@ -173,7 +194,7 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 
 ---
 
-[![](pics/tbl_www25_video_small.png)](https://www.youtube.com/embed/NqtMqilPCh0)
+[![](pics/tbl_www25_video_small.png)](https://youtu.be/NqtMqilPCh0?t=313)
 
 <aside class="notes">Start 7:30, noch einfügen!</aside>
 
@@ -183,12 +204,12 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 ![Tim Berners-Lee: Information Management: A Proposal. Copyright: CERN](https://www.w3.org/History/1989/Image1.gif)
 
 
---- 
+---
 
-- Internet as implementation of hypertext 
-- HTML as markup language for hypertext 
+- Internet as implementation of hypertext
+- HTML as markup language for hypertext
 - URLs for addressing resources
-- HTTP as protocol for universal hypermedia 
+- HTTP as protocol for universal hypermedia
 
 
 ---
@@ -212,6 +233,24 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 
 ---
 
+## The architecture of the Web
+
+![](https://www.ics.uci.edu/~fielding/pubs/dissertation/uniform_ccss.gif)
+
+Source: [Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+
+---
+
+> The key abstraction of information in REST is a resource. Any information that can be named can be a resource: a document or image, a temporal service (e.g. "today's weather in Los Angeles"), a collection of other resources, a non-virtual object (e.g. a person), and so on.
+
+---
+
+> In other words, any concept that might be the target of an author's hypertext reference must fit within the definition of a resource. A resource is a conceptual mapping to a set of entities, not the entity that corresponds to the mapping at any particular point in time.
+
+Source: [Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+
+
+
 ## The browser wars
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/24/Browser_Wars_%28en%29.svg){ width=70%}
@@ -229,7 +268,7 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 
 ---
 
-## Native apps: Links 
+## The Web vs. Native apps: Links
 
 [Universal Links for Developers - Apple Developer](https://developer.apple.com/ios/universal-links/)
 
@@ -250,6 +289,32 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 
 [RDF - Semantic Web Standards](https://www.w3.org/RDF/ "RDF - Semantic Web Standards")
 
+## Linked Data
+
+> Linked Data is about using the Web to connect related data that wasn’t previously linked, or using the Web to lower the barriers to linking data currently linked using other methods.
+
+---
+
+> More specifically, Wikipedia defines Linked Data as “a term used to describe a recommended best practice for exposing, sharing, and connecting pieces of data, information, and knowledge on the Semantic Web using URIs and RDF.”
+
+Tom Heath, [Linked Data - Connect Distributed Data across the Web](http://linkeddata.org/, found via Teodora Petkova: [We, Linked Data](http://www.teodorapetkova.com/poiesis-of-relationships/we-linked-data/))
+
+---
+
+Example: [Linked Jazz](https://linkedjazz.org/network/)
+
+---
+
+> To get back to the question of a good text, a good text on the Web today is in the first place that magic set of strings which the Web (meaning the bots, the agents, the people on the Web) can make sense of as to connect it to their relevant task.
+
+[Petkova, The Brave New Text, pos. 1030](http://www.thebravenewtext.com/)
+
+---
+
+## Centralization/Decentralization
+
+https://youtu.be/due7pVWS5vk
+
 
 # Discussion
 
@@ -257,10 +322,86 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 
 ## Future of Clients
 
+# Appendix: Intro to Frontend Technology
+
+##
+
+What do I need to know about frontend technology to develop text or content for a service design or in a service design?
+
+
+
+##
+
+The point is to ensure that the content at the various touchpoints optimally supports the users. This is what they do, for example,
+
+- if they can be perceived as easily as possible,
+- if there are different ways to access them,
+- if they are uniformly designed,
+- if you can find them easily,
+- when conclusions about the users are drawn how to deal with them.
+
+---
+
+## Presentation
+
+The content must match the different touchpoints on which it is used, and it must support its use.
+
+---
+
+They should be easily perceptible, so as far as the texts are concerned they should be readable.
+
+---
+
+They should support an adequate presentation by an appropriate layout and typography, possibly also animations or dynamic effects.
+
+---
+
+
+Content must be adapted to screens and other playback platform.
+
+---
+
+You should not impose a certain technology on the user to access your content.
+
+---
+
+Content should be well connected to other touchpoints.
+
+---
+
+They should also support conventions that guide users.
+
+---
+
+This includes that parts of content can be used as controls - the basic property of Hypertext/Hypermedia.
+
+---
+
+You should also support the users in many contexts to react to the content, to reuse the content and to engage with the content.
+
+---
+
+## Findability and sharability
+
+It is very important that content can be found, that it can be discovered. In many contexts it is also very important that they can be shared.
+
+
+## Multimedia
+
+Texts and graphics should be well connected with each other. In some cases it is also good if the texts can be organized well in terms of time.
+
+---
+
+## Editability
+
+From the point of view of service, it can also be important how authors deal with texts.
+
+
+
+---
+
+
+
 # References
 
 ## Sources
-
-
-
- 
