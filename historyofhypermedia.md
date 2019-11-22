@@ -317,11 +317,13 @@ Example: [Linked Jazz](https://linkedjazz.org/network/)
 
 ## Centralization/Decentralization
 
-https://youtu.be/due7pVWS5vk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OM6XIICm_qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<https://youtu.be/due7pVWS5vk>
 
 ## REST-APIs
 
-https://www.youtube.com/watch?v=7YcW25PHnAA 
+https://www.youtube.com/watch?v=7YcW25PHnAA
 
 
 # Discussion
