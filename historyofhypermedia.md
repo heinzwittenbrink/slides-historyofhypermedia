@@ -317,7 +317,8 @@ Example: [Linked Jazz](https://linkedjazz.org/network/)
 
 ## Centralization/Decentralization
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OM6XIICm_qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/due7pVWS5vk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <https://youtu.be/due7pVWS5vk>
 
