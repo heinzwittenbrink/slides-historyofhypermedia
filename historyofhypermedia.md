@@ -2,7 +2,11 @@
 title: A very short history of hypermedia
 author: Heinz Wittenbrink
 rights:  Creative Commons Non-Commercial Share Alike 4.0
-date: 2018-10-16
+date: 2019-11-23
+bibliography: hoh.bib
+csl: apa.csl
+link-citations: true
+css: https://heinzwittenbrink.github.io/styles/customizations.css
 ---
 
 
@@ -152,7 +156,7 @@ see: [A Lifetime Pursuit - Doug Engelbart Institute](http://www.dougengelbart.
 
 ## HyperCard
 
-[![](pics/hypercard_video_small.png)](https://www.youtube.com/embed/EMFscTOazS0)
+[![](pics/hypercard_video_small.png)](https://youtu.be/kZcEZDxIA80?t=243 "Computer Chronicles: HyperCard (1987) - Mac Movies")
 
 
 ---
