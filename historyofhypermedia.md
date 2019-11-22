@@ -116,7 +116,7 @@ Bild: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vannevar_Bush_
 
 [DigiBarn Documents: Computer Lib/Dream Machines, Ted Nelson](http://www.digibarn.com/collections/books/computer-lib/)
 
-![Screenshot: Xanadu-Demo für Windows](http://www.stefan-muenz.de/wp-content/uploads/2016/02/hypertext-2-2-1.jpg)
+![Screenshot: Xanadu-Demo für Windows](http://webkompetenz.wdfiles.com/local--files/hypertext%3A2-2/hypertext-2-2-1.jpg)
 
 <small class="rights">Picture: [Stefan Münz](http://www.stefan-muenz.de/hypertext/nelson-xanadu/ "Ted Nelson – Xanadu – Stefan Münz"). Rights: [Creative-Commons strong](http://creativecommons.org/licenses/by-sa/3.0/de/). If you use this content according to the licence please always include the URL.</small>
 
@@ -318,6 +318,10 @@ Example: [Linked Jazz](https://linkedjazz.org/network/)
 ## Centralization/Decentralization
 
 https://youtu.be/due7pVWS5vk
+
+## REST-APIs
+
+https://www.youtube.com/watch?v=7YcW25PHnAA 
 
 
 # Discussion
