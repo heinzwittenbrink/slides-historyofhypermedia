@@ -2,7 +2,7 @@
 title: A very short history of hypermedia
 author: Heinz Wittenbrink
 rights:  Creative Commons Non-Commercial Share Alike 4.0
-date: 2019-11-23
+date: 2020-10-13
 bibliography: hoh.bib
 csl: apa.csl
 link-citations: true
@@ -220,7 +220,7 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 
 ## Client-Server Architecture
 
-![Source: Fifth International World Wide Web Conference](http://www5.wwwconference.org/fich_html/papers/P43/ConvArch.gif)
+![Source: Pixsbay](https://cdn.pixabay.com/photo/2014/05/10/19/14/client-341420_960_720.png)
 
 
 
@@ -230,9 +230,8 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 
 ---
 
-![Screenshot of the Mosaic Browser](https://upload.wikimedia.org/wikipedia/en/b/b7/NCSA_Mosaic.PNG)
+![](https://www.researchgate.net/profile/Erik_Ranschaert/publication/304300437/figure/fig1/AS:668993757118480@1536511949710/Screenshot-of-the-Mosaic-browser-displaying-the-NCSAs-home-page-The-browser-was.png)
 
-[File:NCSA Mosaic.PNG - Wikipedia](https://en.wikipedia.org/wiki/File:NCSA_Mosaic.PNG "File:NCSA Mosaic.PNG - Wikipedia"))
 
 
 ---
